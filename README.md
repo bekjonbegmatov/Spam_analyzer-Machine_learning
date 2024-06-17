@@ -37,6 +37,6 @@ python3 test.py
 
 ![App Screenshot](https://github.com/bekjonbegmatov/Spam_analyzer-Machine_learning/blob/main/img/T.png?raw=true)
 
-![App Screenshot](https://github.com/bekjonbegmatov/Spam_analyzer-Machine_learning/blob/main/i.png?raw=true)
+![App Screenshot](https://github.com/bekjonbegmatov/Spam_analyzer-Machine_learning/blob/main/img/i.png?raw=true)
 
 
