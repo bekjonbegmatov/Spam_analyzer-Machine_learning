@@ -30,6 +30,13 @@ python3 test.py
 ```
 
 
-## Metrics by class
+
+## Screenshots
+
+![App Screenshot](https://github.com/bekjonbegmatov/Spam_analyzer-Machine_learning/blob/main/img/R.png?raw=true)
+
+![App Screenshot](https://github.com/bekjonbegmatov/Spam_analyzer-Machine_learning/blob/main/img/T.png?raw=true)
 
 ![App Screenshot](https://github.com/bekjonbegmatov/Spam_analyzer-Machine_learning/blob/main/i.png?raw=true)
+
+
