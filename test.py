@@ -11,7 +11,6 @@ new_texts = [
     "Get free treal in our new Online platform, only for 20$",
     "Hello Masaridin, I'm in Ulan-Ude now. How are you ?",
     "Register for our seminar on digital marketing",
-    "Congratulation you are winner"
 ]
 
 # Converting texts to a numeric matrix using save vectorizer
